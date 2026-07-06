@@ -182,3 +182,15 @@ touch index.js
 clear
 touch index.js
 touch "index.js"
+touch index.js
+touch index.js
+pwd
+ls --color=auto
+touch index.html
+cd ..
+ls --color=auto
+mkdir website
+cd website
+touch index.html
+touch styles.css
+touch index.js
