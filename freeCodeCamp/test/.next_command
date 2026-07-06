@@ -194,3 +194,4 @@ cd website
 touch index.html
 touch styles.css
 touch index.js
+touch .gitignore
