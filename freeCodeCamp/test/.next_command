@@ -195,3 +195,4 @@ touch index.html
 touch styles.css
 touch index.js
 touch .gitignore
+ls --color=auto
