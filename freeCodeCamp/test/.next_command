@@ -315,3 +315,5 @@ rm background.jpg
 ls --color=auto
 cp header.png images
 cp footer.jpeg images
+cp CodeAlly.svg images
+cd images
