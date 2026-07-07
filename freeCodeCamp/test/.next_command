@@ -250,3 +250,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
 cd website
 touch roboto.font
+touch lato.font
