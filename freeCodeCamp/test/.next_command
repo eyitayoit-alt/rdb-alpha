@@ -335,3 +335,5 @@ mv roboto.woff fonts
 find
 mv lato.tff fonts
 mv lato.ttf fonts
+ls --color=auto
+mv menlo.otf fonts
