@@ -317,3 +317,5 @@ cp header.png images
 cp footer.jpeg images
 cp CodeAlly.svg images
 cd images
+ls --color=auto
+ls --color=auto
