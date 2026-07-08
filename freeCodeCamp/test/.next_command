@@ -554,3 +554,8 @@ mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
 touch client/assets/fonts/foboto-bold.woff
+cd client/assets/fonts
+ls --color=auto
+rm foboto-bold.woff
+cd ../../..
+touch client/assets/fonts/roboto-bold.woff
