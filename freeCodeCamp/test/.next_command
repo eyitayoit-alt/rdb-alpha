@@ -523,3 +523,5 @@ mv ./images/header.png ./client/assets/images
 mv images/header.png client/assets/images
 ls --color=auto
 mv header.png client/assets/images
+find -name header
+find -name header.png
