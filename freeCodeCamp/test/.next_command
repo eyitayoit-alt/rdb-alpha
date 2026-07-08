@@ -553,3 +553,4 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+touch client/assets/fonts/foboto-bold.woff
