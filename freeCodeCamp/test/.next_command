@@ -397,3 +397,4 @@ find website
 cd website
 find
 cd client
+mkdir assets
