@@ -399,3 +399,6 @@ find
 cd client
 mkdir assets
 cd assets
+mkdir imsges
+rm imsges
+mkdir images
