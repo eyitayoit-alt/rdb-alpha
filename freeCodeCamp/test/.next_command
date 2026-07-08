@@ -535,3 +535,8 @@ cd ../../../..
 cd website
 find
 rmdir images
+cd images
+ls --color=auto
+cd ..
+rm background.jpg
+rm images/background.jpg
