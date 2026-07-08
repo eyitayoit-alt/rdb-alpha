@@ -518,3 +518,4 @@ find client/assets/images
 find images
 find -a images
 find --help
+find -name images
