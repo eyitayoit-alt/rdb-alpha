@@ -404,3 +404,4 @@ rm imsges
 mkdir images
 rm -r imsges
 cd images
+touch background.jpg
