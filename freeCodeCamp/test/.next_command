@@ -528,3 +528,9 @@ find -name header.png
 find -name footer.jpeg
 mv ./images/footer.jpeg ./clent/assets/images
 mv ./images/footer.jpeg ./client/assets/images
+find ./client/assets/images
+cd ./client/assets/images
+find
+cd ../../../..
+cd website
+find
