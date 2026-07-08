@@ -543,3 +543,4 @@ rm images/background.jpg
 rmdir images
 rm images/CodeAlly.svg
 rmdir images
+ls --color=auto
