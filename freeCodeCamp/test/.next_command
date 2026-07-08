@@ -402,3 +402,5 @@ cd assets
 mkdir imsges
 rm imsges
 mkdir images
+rm -r imsges
+cd images
