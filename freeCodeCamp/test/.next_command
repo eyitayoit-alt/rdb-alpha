@@ -519,3 +519,7 @@ find images
 find -a images
 find --help
 find -name images
+mv ./images/header.png ./client/assets/images
+mv images/header.png client/assets/images
+ls --color=auto
+mv header.png client/assets/images
