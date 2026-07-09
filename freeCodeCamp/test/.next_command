@@ -697,3 +697,4 @@ cd website-boilerplate
 ls --color=auto
 cd ..
 ls --color=auto
+cp --help
