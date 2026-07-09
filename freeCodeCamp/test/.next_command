@@ -668,3 +668,4 @@ find client/assets/fonts
 touch client/assets/fonts/lato-bold.tff
 rm client/assets/fonts/lato-bold.tff
 touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
