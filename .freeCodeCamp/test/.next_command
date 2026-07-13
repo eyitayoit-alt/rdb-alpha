@@ -227,3 +227,4 @@ sudo systemctl postgresql start
 sudo service postgresql start
 \c mario_database
 sudo service postgresql start
+sudo service postgresql start
