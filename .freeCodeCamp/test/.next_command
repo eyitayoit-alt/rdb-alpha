@@ -225,3 +225,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 sudo systemctl postgresql start
 sudo service postgresql start
+\c mario_database
+sudo service postgresql start
