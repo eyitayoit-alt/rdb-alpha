@@ -90,3 +90,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 sudo service postgresql start
 \c universe
 psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
