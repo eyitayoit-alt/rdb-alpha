@@ -205,3 +205,5 @@ clear
 ./countdown.sh 1
 ./countdown.sh -1
 help
+clear
+./countdown.sh 10
