@@ -5,5 +5,5 @@ if [[ $1 -gt 0 ]]
 then 
 echo true
 else
-echo Include a positive integer as the first argument.
+echo Include a positive integer as the first argument. 
 fi

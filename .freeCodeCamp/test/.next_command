@@ -202,3 +202,4 @@ help if
 help
 help test
 clear
+./countdown.sh 1
