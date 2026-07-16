@@ -163,3 +163,4 @@ man if
 help if
 clear
 ./countdown.sh arg1
+./countdown.sh arg2
