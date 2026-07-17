@@ -319,3 +319,4 @@ help let
 echo $I
 $(( I +=10 ))
 $(( I + 4 ))
+echo $(( I + 4 ))
