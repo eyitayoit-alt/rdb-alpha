@@ -356,3 +356,7 @@ help function
 ./fortune.sh
 ./fortune.sh
 help
+help untill
+man untill
+untill
+help until
