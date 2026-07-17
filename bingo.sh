@@ -10,4 +10,7 @@ echo $TEXT B:$NUMBER
 elif [[ $NUMBER -le 30 ]]
 then 
 echo $TEXT I:$NUMBER
+elif (( $NUMBER < 46 ))
+then 
+echo $TEXT N:$NUMBER
 fi
