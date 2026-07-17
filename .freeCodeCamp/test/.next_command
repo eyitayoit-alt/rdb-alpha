@@ -337,3 +337,4 @@ echo $(( RANDOM % 75 + 1 ))
 ./bingo.sh
 __vsc_prompt_cmd_original
 ./bingo.sh
+help let
