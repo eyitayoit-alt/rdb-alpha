@@ -3,6 +3,6 @@
 
 echo -e "\n~~ Fortune Teller ~~\n"
 RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it"  "Ask again later")
-N=$(( $RANDOM % 6 ))
-echo ${RESPONSES[5]}
-echo $N
+N=$(( $RANDOM %1 ))
+
+echo ${RESPONSES[$N]}
