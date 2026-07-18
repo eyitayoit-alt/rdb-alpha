@@ -8,7 +8,6 @@ N=$(( $RANDOM % 6 ))
 echo -e "\n${RESPONSES[$N]}"
 
 GET_FORTUNE(){
-  
 if [[ ! $1 ]]
 then
 echo Ask a yes or no question:
