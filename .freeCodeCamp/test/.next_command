@@ -426,3 +426,4 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
