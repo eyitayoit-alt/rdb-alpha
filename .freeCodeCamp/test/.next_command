@@ -431,3 +431,6 @@ echo $VAR
 ./fortune.sh
 touch five.sh
 chmod +x five.sh
+help run
+help
+help exec
