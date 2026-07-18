@@ -434,3 +434,4 @@ chmod +x five.sh
 help run
 help
 help exec
+./five.sh
