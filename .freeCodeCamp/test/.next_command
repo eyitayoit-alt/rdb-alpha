@@ -406,3 +406,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./fortune.sh
 help [[ expression ]]
 [[ hello == hello ]]
+[[ hello == world ]]
