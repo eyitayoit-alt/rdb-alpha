@@ -409,3 +409,5 @@ help [[ expression ]]
 [[ hello == world ]]
 [[ hello =~ el ]]
 __vsc_prompt_cmd_original
+[[ -n "hello world =~ lo wor" ]]
+[[ "hello world" =~ "lo wor" ]]
