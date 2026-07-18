@@ -15,6 +15,7 @@ echo Try again. Make sure it ends with a question mark:
 fi
 read QUESTION
 }
+GET_FORTUNE
 until [[ $QUESTION =~ \?$ ]]
 do
 GET_FORTUNE again
