@@ -419,3 +419,6 @@ __vsc_prompt_cmd_original
 echo $VAR
 [[ $VAR == "hello world" ]]
 [[ $VAR == "hello world" ]]
+[[ $VAR == \?$ ]]
+[[ $VAR == \?$ ]]
+[[ $VAR =~ \?$ ]]
