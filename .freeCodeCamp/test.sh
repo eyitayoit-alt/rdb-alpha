@@ -7,9 +7,17 @@ N=$(( $RANDOM % 6 ))
 
 echo ${RESPONSES[$N]}
 GET_FORTUNE(){
+if [[ ! $1 ]]
+then
 echo Ask a yes or no question:
+else
+echo Try again. Make sure it ends with a question mark:
+fi
 read QUESTION
 }
+until [[ $QUESTION =~ \?$ ]]
+do
 GET_FORTUNE
+done
 
-echo $QUESTION
+GET_FORTUNE again
