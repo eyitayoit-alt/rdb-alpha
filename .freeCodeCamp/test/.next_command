@@ -532,3 +532,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./five.sh
 ./five.sh
 ./five.sh
+clear
